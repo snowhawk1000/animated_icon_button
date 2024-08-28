@@ -1,6 +1,9 @@
 # Animated Icon Button
 A highly customizeable and animated icon button widget made for Flutter. Featuring a shrinking animation while you are pressing the button.
 
+
+[Video of animation here](https://youtu.be/ChOEYd7uwws?si=TwWAOyFo88WfGCP9)
+
 ## Getting Started
 Simply add the `animated_icon_button.dart` into the `lib` folder located within your flutter project directory. Then you can use the widget like below.
 ```dart
