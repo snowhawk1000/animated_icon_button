@@ -1,5 +1,5 @@
 # Animated Icon Button
-A highly customizeable and animated icon button widget made for Flutter. Featuring a shrinking animation while you are pressing the button.
+A highly customizable and animated icon button widget made for Flutter. Featuring a shrinking animation while you are pressing the button.
 
 
 [Video of animation here](https://youtu.be/ChOEYd7uwws?si=TwWAOyFo88WfGCP9)
