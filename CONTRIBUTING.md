@@ -2,6 +2,8 @@
 
 I am happy and open to recieve contributions! They could be in the form of a pull request, a simple issue reporting a bug, or any other form of contribution.
 
+Feature suggestions are welcome too!
+
 ## Issues
 If you submit an issue, please clearly state the issue or bug you are experiencing.
 
