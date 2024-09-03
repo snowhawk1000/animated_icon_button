@@ -28,4 +28,4 @@ AnimatedIconButton(
 By doing this, the button will just display with red text saying "Temp". Perfect for quickly testing things.
 
 ## Features
-There are many customizable parameters, including ones for changing the background and hover colors, padding, animation speed, and more. Vibrations are enabled by default if on the Android platform, and the button should work on any platform.
+There are many customizable parameters, including ones for changing the background and hover colors, padding, animation speed, and more. Vibrations are enabled by default if on the Android platform.
