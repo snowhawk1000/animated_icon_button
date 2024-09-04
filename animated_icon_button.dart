@@ -1,4 +1,4 @@
-/* Copyright (c) 2024 Snowhawk. This entire file is licensed to you under the MIT license. Which is located at the end of this file.*/
+/* Copyright 2024 Snowhawk. This entire file is licensed to you under the MIT license. You can find the license written at the end of this file.*/
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
